@@ -7,7 +7,7 @@ export default function Home() {
     <div className="bg-card rounded-2xl p-6 pb-12 shadow-xl ring-1 ring-black/20 max-w-wd mx-auto ">
       <div className="flex flex-col items-center mt-12">
         <img
-          src="public/favicon2.png"
+          src="favicon2.png"
           alt="profile"
           className="w-24 h-24 sm:w-28 sm:h-28 rounded-full ring-2 ring-accent1 shadow-md object-cover mb-4"
         />
