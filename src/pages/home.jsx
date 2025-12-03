@@ -15,7 +15,7 @@ export default function Home() {
           Saqib Ali
         </h1>
         <p className=" text-lg  sm:text-lg font-semibold font-lato text-brand/80 text-center mb-6">
-          Digital Experiences · Web Dev · Blogger ·E-Commerce Specialist
+          Digital Experiences ·Web Dev ·SEO ·wordpress
         </p>
         <hr className="w-36 border-t border-accent1 mb-6" />
         <div className="flex flex-col space-y-3 w-full items-center">
